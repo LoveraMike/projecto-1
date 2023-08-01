@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\mike"
+		},
+		{
+			"name": "projecto-1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projecto-1"
+	}
+}
