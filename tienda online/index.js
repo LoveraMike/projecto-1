@@ -1,3 +1,14 @@
+const express = require('express');
+
+const tienda = express();
+
+const port = process.env.PORT || 3000;
+
+
+
+
+
+
 const number = 123456.789;
 
 new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' }).format(number);
