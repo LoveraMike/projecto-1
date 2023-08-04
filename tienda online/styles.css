@@ -30,6 +30,11 @@ body {
     max-width: 100%;
 }
 
+.icono {
+    display: flex;
+    position: relative;
+}
+
 /*Header*/
 
 header {
